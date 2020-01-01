@@ -21,3 +21,5 @@ This is a list of adopters of using PowerShell in production or in their product
 * [PowerShell Universal Dashboard](https://ironmansoftware.com/powershell-universal-dashboard) is a cross-platform web framework for PowerShell. 
   It provides the ability to create robust, interactive websites, REST APIs, and Electron-based desktop apps with PowerShell script. 
   More information about PowerShell Universal Dashboard is available at the [PowerShell Universal Dashboard Docs](https://docs.universaldashboard.io).
+* [System Frontier](https://systemfrontier.com/solutions/powershell/) provides dynamically generated web GUIs, a REST API and Role Based Access Control for PowerShell and other scripting languages.
+  No HTML or additonal code needed to create GUI frontends for existing scripts. A flexible RBAC model makes it easy to allow non-admins to manage any object on any platform _without_ admin rights.
